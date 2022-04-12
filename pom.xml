@@ -52,8 +52,8 @@
             <url>http://192.168.120.128:8080/manager/text</url>
             <server>tomcatServer</server>
 	    <path>/NRoberson-Roshambo</path>
-            <username>adminTom</username>
-            <password>adminTom</password>
+            <username>tomscript</username>
+            <password>tomscript</password>
           </configuration>
         </plugin>
 
